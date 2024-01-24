@@ -1,0 +1,63 @@
+/* li{
+    text-align: center;
+} */
+
+/* this is selecting the element anchor and turning it red */
+a{
+    color:red;
+}
+/* this is selecting the center class and aligning text center */
+.center{
+    text-align: center;
+}
+/* this is setting the purple id to the color blueviolet */
+#purple{
+    color: blueviolet;
+}
+header{
+    background-color: #aeae00;
+}
+nav{
+    color:aliceblue;
+}
+ul{
+    text-transform:uppercase;
+}
+li{
+    text-orientation: sideways;
+}
+h1{
+    font-size: larger;
+}
+h2{
+    font-size: x-large;
+}
+main{
+    background-color:bisque;
+}
+section{
+ font-style: italic;
+}
+td{
+    tr:nth-child(even) {background: #CCC};
+tr:nth-child(odd) {background: #FFF};
+}
+article{
+    border:1px solid cadetblue;
+}
+img{
+    border:2px cornflowerblue;
+    border-style: dashed;
+}
+form{
+ box-shadow: 10px 5px 5px 0 red;
+}
+#firstname{
+color:rgb(13, 14, 16)
+}
+#lastname{
+    color:rgb(123, 71, 3)
+}
+label{
+    color:red
+}
